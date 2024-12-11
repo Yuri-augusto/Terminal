@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+html{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: black;
+}
+p{
+    color: greenyellow;
+}
